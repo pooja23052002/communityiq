@@ -1,6 +1,7 @@
 streamlit>=1.40
 pandas>=2.0
 numpy>=1.24
+reportlab>=4.0
 
 # Optional — only needed for the Gemini-powered narrative/chat (USE_GEMINI=1):
 # google-cloud-aiplatform>=1.60
