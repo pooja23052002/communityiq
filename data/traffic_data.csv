@@ -1,0 +1,151 @@
+area,date,traffic_index
+Anna Nagar,2026-05-26,66.5
+Anna Nagar,2026-05-27,59.8
+Anna Nagar,2026-05-28,68.7
+Anna Nagar,2026-05-29,69.7
+Anna Nagar,2026-05-30,39.5
+Anna Nagar,2026-05-31,42.8
+Anna Nagar,2026-06-01,65.6
+Anna Nagar,2026-06-02,63.4
+Anna Nagar,2026-06-03,64.9
+Anna Nagar,2026-06-04,60.7
+Anna Nagar,2026-06-05,69.4
+Anna Nagar,2026-06-06,53.2
+Anna Nagar,2026-06-07,49.6
+Anna Nagar,2026-06-08,70.6
+Anna Nagar,2026-06-09,67.3
+Anna Nagar,2026-06-10,60.7
+Anna Nagar,2026-06-11,66.8
+Anna Nagar,2026-06-12,60.2
+Anna Nagar,2026-06-13,53.7
+Anna Nagar,2026-06-14,49.1
+Anna Nagar,2026-06-15,64.0
+Anna Nagar,2026-06-16,61.6
+Anna Nagar,2026-06-17,71.1
+Anna Nagar,2026-06-18,64.2
+Anna Nagar,2026-06-19,62.8
+Anna Nagar,2026-06-20,47.5
+Anna Nagar,2026-06-21,52.0
+Anna Nagar,2026-06-22,66.8
+Anna Nagar,2026-06-23,67.0
+Anna Nagar,2026-06-24,67.1
+T Nagar,2026-05-26,91.3
+T Nagar,2026-05-27,78.6
+T Nagar,2026-05-28,78.1
+T Nagar,2026-05-29,76.6
+T Nagar,2026-05-30,64.3
+T Nagar,2026-05-31,66.8
+T Nagar,2026-06-01,80.1
+T Nagar,2026-06-02,76.4
+T Nagar,2026-06-03,76.5
+T Nagar,2026-06-04,83.9
+T Nagar,2026-06-05,84.4
+T Nagar,2026-06-06,63.9
+T Nagar,2026-06-07,57.9
+T Nagar,2026-06-08,81.8
+T Nagar,2026-06-09,81.2
+T Nagar,2026-06-10,81.7
+T Nagar,2026-06-11,85.0
+T Nagar,2026-06-12,81.8
+T Nagar,2026-06-13,64.6
+T Nagar,2026-06-14,61.5
+T Nagar,2026-06-15,82.1
+T Nagar,2026-06-16,83.8
+T Nagar,2026-06-17,73.4
+T Nagar,2026-06-18,79.0
+T Nagar,2026-06-19,78.3
+T Nagar,2026-06-20,58.0
+T Nagar,2026-06-21,59.8
+T Nagar,2026-06-22,88.1
+T Nagar,2026-06-23,76.3
+T Nagar,2026-06-24,85.5
+Velachery,2026-05-26,64.4
+Velachery,2026-05-27,71.1
+Velachery,2026-05-28,73.6
+Velachery,2026-05-29,75.7
+Velachery,2026-05-30,58.8
+Velachery,2026-05-31,59.2
+Velachery,2026-06-01,71.1
+Velachery,2026-06-02,70.5
+Velachery,2026-06-03,77.1
+Velachery,2026-06-04,71.8
+Velachery,2026-06-05,66.4
+Velachery,2026-06-06,49.6
+Velachery,2026-06-07,50.7
+Velachery,2026-06-08,75.3
+Velachery,2026-06-09,73.5
+Velachery,2026-06-10,76.3
+Velachery,2026-06-11,70.7
+Velachery,2026-06-12,73.6
+Velachery,2026-06-13,58.4
+Velachery,2026-06-14,53.7
+Velachery,2026-06-15,75.1
+Velachery,2026-06-16,69.5
+Velachery,2026-06-17,71.0
+Velachery,2026-06-18,70.9
+Velachery,2026-06-19,66.8
+Velachery,2026-06-20,57.7
+Velachery,2026-06-21,52.9
+Velachery,2026-06-22,72.9
+Velachery,2026-06-23,75.2
+Velachery,2026-06-24,75.0
+Adyar,2026-05-26,57.1
+Adyar,2026-05-27,53.3
+Adyar,2026-05-28,51.6
+Adyar,2026-05-29,53.4
+Adyar,2026-05-30,32.4
+Adyar,2026-05-31,33.6
+Adyar,2026-06-01,47.1
+Adyar,2026-06-02,48.8
+Adyar,2026-06-03,55.8
+Adyar,2026-06-04,49.2
+Adyar,2026-06-05,51.9
+Adyar,2026-06-06,47.3
+Adyar,2026-06-07,39.0
+Adyar,2026-06-08,57.4
+Adyar,2026-06-09,49.1
+Adyar,2026-06-10,52.7
+Adyar,2026-06-11,49.0
+Adyar,2026-06-12,52.1
+Adyar,2026-06-13,45.0
+Adyar,2026-06-14,32.2
+Adyar,2026-06-15,55.9
+Adyar,2026-06-16,54.9
+Adyar,2026-06-17,50.8
+Adyar,2026-06-18,46.5
+Adyar,2026-06-19,54.1
+Adyar,2026-06-20,38.2
+Adyar,2026-06-21,42.0
+Adyar,2026-06-22,53.9
+Adyar,2026-06-23,61.8
+Adyar,2026-06-24,52.6
+Mylapore,2026-05-26,56.5
+Mylapore,2026-05-27,62.5
+Mylapore,2026-05-28,62.7
+Mylapore,2026-05-29,68.4
+Mylapore,2026-05-30,50.9
+Mylapore,2026-05-31,48.5
+Mylapore,2026-06-01,68.9
+Mylapore,2026-06-02,55.7
+Mylapore,2026-06-03,58.4
+Mylapore,2026-06-04,57.0
+Mylapore,2026-06-05,59.7
+Mylapore,2026-06-06,39.9
+Mylapore,2026-06-07,49.9
+Mylapore,2026-06-08,60.5
+Mylapore,2026-06-09,54.2
+Mylapore,2026-06-10,56.5
+Mylapore,2026-06-11,63.2
+Mylapore,2026-06-12,65.8
+Mylapore,2026-06-13,56.7
+Mylapore,2026-06-14,61.3
+Mylapore,2026-06-15,63.7
+Mylapore,2026-06-16,56.7
+Mylapore,2026-06-17,50.9
+Mylapore,2026-06-18,62.9
+Mylapore,2026-06-19,57.5
+Mylapore,2026-06-20,44.7
+Mylapore,2026-06-21,43.7
+Mylapore,2026-06-22,60.9
+Mylapore,2026-06-23,66.9
+Mylapore,2026-06-24,62.4

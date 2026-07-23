@@ -1,0 +1,291 @@
+area,date,complaint
+Anna Nagar,2026-05-26,Noise pollution
+Anna Nagar,2026-05-29,Heavy traffic
+Anna Nagar,2026-05-30,Noise pollution
+Anna Nagar,2026-05-30,Heavy traffic
+Anna Nagar,2026-05-31,Noise pollution
+Anna Nagar,2026-06-01,Streetlight not working
+Anna Nagar,2026-06-02,Water leakage
+Anna Nagar,2026-06-03,Water leakage
+Anna Nagar,2026-06-03,Streetlight not working
+Anna Nagar,2026-06-03,Open drainage
+Anna Nagar,2026-06-04,Water leakage
+Anna Nagar,2026-06-04,Heavy traffic
+Anna Nagar,2026-06-05,Road damage
+Anna Nagar,2026-06-05,Open drainage
+Anna Nagar,2026-06-06,No water supply
+Anna Nagar,2026-06-06,Road damage
+Anna Nagar,2026-06-06,Water leakage
+Anna Nagar,2026-06-07,No water supply
+Anna Nagar,2026-06-07,Garbage not collected
+Anna Nagar,2026-06-08,Garbage not collected
+Anna Nagar,2026-06-09,Heavy traffic
+Anna Nagar,2026-06-10,Water leakage
+Anna Nagar,2026-06-10,Heavy traffic
+Anna Nagar,2026-06-11,Road damage
+Anna Nagar,2026-06-11,Water leakage
+Anna Nagar,2026-06-13,Streetlight not working
+Anna Nagar,2026-06-13,Road damage
+Anna Nagar,2026-06-13,Open drainage
+Anna Nagar,2026-06-13,Water leakage
+Anna Nagar,2026-06-14,Open drainage
+Anna Nagar,2026-06-14,Open drainage
+Anna Nagar,2026-06-15,Water leakage
+Anna Nagar,2026-06-17,Streetlight not working
+Anna Nagar,2026-06-17,Heavy traffic
+Anna Nagar,2026-06-17,Road damage
+Anna Nagar,2026-06-17,Heavy traffic
+Anna Nagar,2026-06-17,No water supply
+Anna Nagar,2026-06-18,Garbage not collected
+Anna Nagar,2026-06-18,Noise pollution
+Anna Nagar,2026-06-20,Water leakage
+Anna Nagar,2026-06-21,Water leakage
+Anna Nagar,2026-06-22,Heavy traffic
+Anna Nagar,2026-06-22,No water supply
+Anna Nagar,2026-06-23,Water leakage
+Anna Nagar,2026-06-23,Streetlight not working
+Anna Nagar,2026-06-23,Garbage not collected
+Anna Nagar,2026-06-23,Open drainage
+Anna Nagar,2026-06-24,No water supply
+T Nagar,2026-05-26,Heavy traffic
+T Nagar,2026-05-26,Noise pollution
+T Nagar,2026-05-26,No water supply
+T Nagar,2026-05-26,Streetlight not working
+T Nagar,2026-05-27,Streetlight not working
+T Nagar,2026-05-27,Garbage not collected
+T Nagar,2026-05-27,Garbage not collected
+T Nagar,2026-05-28,Heavy traffic
+T Nagar,2026-05-28,Garbage not collected
+T Nagar,2026-05-29,No water supply
+T Nagar,2026-05-30,Water leakage
+T Nagar,2026-05-30,Streetlight not working
+T Nagar,2026-06-01,Open drainage
+T Nagar,2026-06-01,Noise pollution
+T Nagar,2026-06-02,Heavy traffic
+T Nagar,2026-06-02,Road damage
+T Nagar,2026-06-02,Garbage not collected
+T Nagar,2026-06-02,Garbage not collected
+T Nagar,2026-06-02,Streetlight not working
+T Nagar,2026-06-02,Open drainage
+T Nagar,2026-06-03,Road damage
+T Nagar,2026-06-03,Open drainage
+T Nagar,2026-06-03,Noise pollution
+T Nagar,2026-06-03,Open drainage
+T Nagar,2026-06-03,Open drainage
+T Nagar,2026-06-06,No water supply
+T Nagar,2026-06-06,Garbage not collected
+T Nagar,2026-06-06,Road damage
+T Nagar,2026-06-06,Open drainage
+T Nagar,2026-06-06,Garbage not collected
+T Nagar,2026-06-07,Garbage not collected
+T Nagar,2026-06-07,No water supply
+T Nagar,2026-06-07,Noise pollution
+T Nagar,2026-06-07,Garbage not collected
+T Nagar,2026-06-09,Noise pollution
+T Nagar,2026-06-09,Water leakage
+T Nagar,2026-06-09,Garbage not collected
+T Nagar,2026-06-09,Streetlight not working
+T Nagar,2026-06-09,Water leakage
+T Nagar,2026-06-09,Road damage
+T Nagar,2026-06-11,Road damage
+T Nagar,2026-06-11,Heavy traffic
+T Nagar,2026-06-12,Streetlight not working
+T Nagar,2026-06-12,No water supply
+T Nagar,2026-06-12,Road damage
+T Nagar,2026-06-13,Road damage
+T Nagar,2026-06-13,Garbage not collected
+T Nagar,2026-06-14,No water supply
+T Nagar,2026-06-14,Open drainage
+T Nagar,2026-06-15,No water supply
+T Nagar,2026-06-15,Streetlight not working
+T Nagar,2026-06-15,Water leakage
+T Nagar,2026-06-15,Garbage not collected
+T Nagar,2026-06-16,Streetlight not working
+T Nagar,2026-06-16,No water supply
+T Nagar,2026-06-16,Water leakage
+T Nagar,2026-06-16,Garbage not collected
+T Nagar,2026-06-16,No water supply
+T Nagar,2026-06-18,No water supply
+T Nagar,2026-06-19,Heavy traffic
+T Nagar,2026-06-19,Noise pollution
+T Nagar,2026-06-20,Garbage not collected
+T Nagar,2026-06-20,Garbage not collected
+T Nagar,2026-06-20,Garbage not collected
+T Nagar,2026-06-20,No water supply
+T Nagar,2026-06-20,Water leakage
+T Nagar,2026-06-21,Water leakage
+T Nagar,2026-06-21,Garbage not collected
+T Nagar,2026-06-21,No water supply
+T Nagar,2026-06-21,No water supply
+T Nagar,2026-06-21,No water supply
+T Nagar,2026-06-21,Water leakage
+T Nagar,2026-06-22,Garbage not collected
+T Nagar,2026-06-22,Water leakage
+T Nagar,2026-06-22,No water supply
+T Nagar,2026-06-22,No water supply
+T Nagar,2026-06-22,Garbage not collected
+T Nagar,2026-06-22,Garbage not collected
+T Nagar,2026-06-22,Garbage not collected
+T Nagar,2026-06-22,No water supply
+T Nagar,2026-06-22,No water supply
+T Nagar,2026-06-22,No water supply
+T Nagar,2026-06-22,No water supply
+T Nagar,2026-06-22,No water supply
+T Nagar,2026-06-22,Water leakage
+T Nagar,2026-06-22,No water supply
+T Nagar,2026-06-23,Garbage not collected
+T Nagar,2026-06-23,No water supply
+T Nagar,2026-06-23,No water supply
+T Nagar,2026-06-23,No water supply
+T Nagar,2026-06-23,Garbage not collected
+T Nagar,2026-06-23,No water supply
+T Nagar,2026-06-23,Water leakage
+T Nagar,2026-06-23,Water leakage
+T Nagar,2026-06-23,Garbage not collected
+T Nagar,2026-06-23,No water supply
+T Nagar,2026-06-24,Garbage not collected
+T Nagar,2026-06-24,No water supply
+T Nagar,2026-06-24,Water leakage
+T Nagar,2026-06-24,Water leakage
+T Nagar,2026-06-24,No water supply
+T Nagar,2026-06-24,Water leakage
+T Nagar,2026-06-24,No water supply
+T Nagar,2026-06-24,No water supply
+T Nagar,2026-06-24,No water supply
+T Nagar,2026-06-24,No water supply
+T Nagar,2026-06-24,Water leakage
+T Nagar,2026-06-24,Garbage not collected
+T Nagar,2026-06-24,No water supply
+T Nagar,2026-06-24,No water supply
+T Nagar,2026-06-24,No water supply
+Velachery,2026-05-26,Streetlight not working
+Velachery,2026-05-27,Water leakage
+Velachery,2026-05-27,No water supply
+Velachery,2026-05-27,Streetlight not working
+Velachery,2026-05-28,Water leakage
+Velachery,2026-05-28,Open drainage
+Velachery,2026-05-29,No water supply
+Velachery,2026-05-30,Streetlight not working
+Velachery,2026-05-30,Garbage not collected
+Velachery,2026-06-01,Noise pollution
+Velachery,2026-06-04,Water leakage
+Velachery,2026-06-05,No water supply
+Velachery,2026-06-05,Road damage
+Velachery,2026-06-05,Streetlight not working
+Velachery,2026-06-07,Streetlight not working
+Velachery,2026-06-07,Streetlight not working
+Velachery,2026-06-07,Heavy traffic
+Velachery,2026-06-08,Streetlight not working
+Velachery,2026-06-08,Road damage
+Velachery,2026-06-08,Garbage not collected
+Velachery,2026-06-08,Streetlight not working
+Velachery,2026-06-09,Open drainage
+Velachery,2026-06-12,No water supply
+Velachery,2026-06-13,Road damage
+Velachery,2026-06-14,Open drainage
+Velachery,2026-06-14,Water leakage
+Velachery,2026-06-14,Water leakage
+Velachery,2026-06-16,Road damage
+Velachery,2026-06-17,Streetlight not working
+Velachery,2026-06-19,Streetlight not working
+Velachery,2026-06-19,Noise pollution
+Velachery,2026-06-20,Open drainage
+Velachery,2026-06-20,Garbage not collected
+Velachery,2026-06-20,Heavy traffic
+Velachery,2026-06-21,Streetlight not working
+Velachery,2026-06-21,Water leakage
+Velachery,2026-06-22,Garbage not collected
+Velachery,2026-06-23,Water leakage
+Velachery,2026-06-23,Streetlight not working
+Velachery,2026-06-24,No water supply
+Velachery,2026-06-24,Road damage
+Velachery,2026-06-24,Open drainage
+Adyar,2026-05-26,Noise pollution
+Adyar,2026-05-28,Noise pollution
+Adyar,2026-05-28,Garbage not collected
+Adyar,2026-05-29,Heavy traffic
+Adyar,2026-05-29,Water leakage
+Adyar,2026-05-30,Open drainage
+Adyar,2026-05-31,Water leakage
+Adyar,2026-05-31,No water supply
+Adyar,2026-06-01,Heavy traffic
+Adyar,2026-06-01,Heavy traffic
+Adyar,2026-06-02,Streetlight not working
+Adyar,2026-06-02,Heavy traffic
+Adyar,2026-06-02,Garbage not collected
+Adyar,2026-06-03,Garbage not collected
+Adyar,2026-06-03,Water leakage
+Adyar,2026-06-03,Heavy traffic
+Adyar,2026-06-05,Open drainage
+Adyar,2026-06-05,Noise pollution
+Adyar,2026-06-06,Noise pollution
+Adyar,2026-06-07,Garbage not collected
+Adyar,2026-06-07,Streetlight not working
+Adyar,2026-06-08,No water supply
+Adyar,2026-06-08,Heavy traffic
+Adyar,2026-06-09,No water supply
+Adyar,2026-06-10,Water leakage
+Adyar,2026-06-11,Water leakage
+Adyar,2026-06-12,Garbage not collected
+Adyar,2026-06-12,Heavy traffic
+Adyar,2026-06-14,Water leakage
+Adyar,2026-06-17,Noise pollution
+Adyar,2026-06-17,Garbage not collected
+Adyar,2026-06-17,Water leakage
+Adyar,2026-06-19,No water supply
+Adyar,2026-06-19,Heavy traffic
+Adyar,2026-06-19,Water leakage
+Adyar,2026-06-19,Noise pollution
+Adyar,2026-06-19,No water supply
+Adyar,2026-06-19,Water leakage
+Adyar,2026-06-21,Streetlight not working
+Adyar,2026-06-21,Streetlight not working
+Adyar,2026-06-24,Water leakage
+Adyar,2026-06-24,Road damage
+Adyar,2026-06-24,No water supply
+Mylapore,2026-05-26,Garbage not collected
+Mylapore,2026-05-26,Water leakage
+Mylapore,2026-05-27,Water leakage
+Mylapore,2026-05-29,Noise pollution
+Mylapore,2026-05-31,Water leakage
+Mylapore,2026-06-01,Water leakage
+Mylapore,2026-06-01,Streetlight not working
+Mylapore,2026-06-01,Streetlight not working
+Mylapore,2026-06-02,No water supply
+Mylapore,2026-06-03,Water leakage
+Mylapore,2026-06-03,Heavy traffic
+Mylapore,2026-06-03,Streetlight not working
+Mylapore,2026-06-03,Heavy traffic
+Mylapore,2026-06-04,Streetlight not working
+Mylapore,2026-06-06,No water supply
+Mylapore,2026-06-06,Streetlight not working
+Mylapore,2026-06-06,Noise pollution
+Mylapore,2026-06-07,Water leakage
+Mylapore,2026-06-09,Garbage not collected
+Mylapore,2026-06-09,Heavy traffic
+Mylapore,2026-06-10,Open drainage
+Mylapore,2026-06-11,Water leakage
+Mylapore,2026-06-11,Road damage
+Mylapore,2026-06-11,Noise pollution
+Mylapore,2026-06-11,Open drainage
+Mylapore,2026-06-13,No water supply
+Mylapore,2026-06-13,Garbage not collected
+Mylapore,2026-06-14,Road damage
+Mylapore,2026-06-15,Streetlight not working
+Mylapore,2026-06-15,Noise pollution
+Mylapore,2026-06-15,No water supply
+Mylapore,2026-06-17,No water supply
+Mylapore,2026-06-19,Open drainage
+Mylapore,2026-06-19,No water supply
+Mylapore,2026-06-20,Open drainage
+Mylapore,2026-06-20,Streetlight not working
+Mylapore,2026-06-21,Streetlight not working
+Mylapore,2026-06-21,Water leakage
+Mylapore,2026-06-22,Noise pollution
+Mylapore,2026-06-22,Heavy traffic
+Mylapore,2026-06-23,Water leakage
+Mylapore,2026-06-23,No water supply
+Mylapore,2026-06-23,No water supply
+Mylapore,2026-06-23,Noise pollution
+Mylapore,2026-06-24,Noise pollution
+Mylapore,2026-06-24,Streetlight not working
