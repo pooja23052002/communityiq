@@ -37,7 +37,7 @@ st.set_page_config(
 )
 
 load_css()
-render_sidebar()
+#render_sidebar()
 
 
 @st.cache_data
