@@ -47,3 +47,10 @@ Demo city: **Chennai**, 5 areas, 30 days of data.
 | Agents | two-tier in `recommend.py` | ADK |
 | Automation (alert on CRITICAL) | (next) | Cloud Functions + Gmail API |
 | Dashboard | (next: Streamlit) | Looker Studio / Cloud Run |
+
+---
+
+## Demo Link:
+https://communityiq-d7hsctrt6gb6x4lsmpnba5.streamlit.app/
+
+```
